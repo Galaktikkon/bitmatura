@@ -30,7 +30,7 @@ The repository is organized into the following directories:
 To get started with the course, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/bitmatura.git
+git clone https://github.com/Galaktikkon/bitmatura.git
 cd bitmatura
 ```
 
